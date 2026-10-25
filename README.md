@@ -77,4 +77,4 @@ RapidPulse Durban aims to demonstrate how mobile technology could support emerge
 
 **Project summary:** RapidPulse Durban is a React Native and Expo mobile application prototype exploring how emergency information, simulated response tracking, patient registration, and community support features can be brought together in one accessible platform.<img width="716" height="1600" alt="rapid picc2" src="https://github.com/user-attachments/assets/d26e2d25-b7d4-48bf-96a5-b00936cc9140" />
 <img width="716" height="1600" alt="rapid pic 1" src="https://github.com/user-attachments/assets/d12dbb2f-0899-4686-a53e-e7f7c31e0ff6" />
-
+https://github.com/alishaliyahnero19-png/rapid-pulse-durban.git
