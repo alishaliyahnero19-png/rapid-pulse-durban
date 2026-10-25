@@ -1,5 +1,10 @@
 # RapidPulse Durban — Project Overview
+## 🛠️ Built With
 
+*   **React Native** — For building the cross-platform mobile user interface.
+*   **Expo** — For rapid mobile development, testing, and deployment.
+*   **JavaScript (ES6+)** — The core programming language used for application logic.
+*
 ## 1. Project Description
 
 RapidPulse Durban is a mobile emergency response prototype designed to help people in Durban, KwaZulu-Natal, access emergency information, basic first-aid guidance, and community support resources. The project aims to improve access to emergency assistance by providing a simple platform where users can view safety information, record basic patient details, simulate emergency requests, and register their interest in becoming community responders.
